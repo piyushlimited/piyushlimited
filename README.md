@@ -6,6 +6,8 @@
       Email- piyushlimited@gmail.com
       LinkedIn - linkedin.com/in/piyushlimited
       Facebook - www.facebook.com/piyushlimited
+      Instagram - www.instagram.com/piyushlimited/
+      Twitter -  twitter.com/piyushlimited
   I am currently working on a android project and seeking opportunities in android development work.
 
 <!---
