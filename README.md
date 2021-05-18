@@ -1,14 +1,12 @@
 - 👋 Hi, I’m Piyush Singhal @piyushlimited
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on Android Products
+- 💞️ I’m looking to collaborate mobile application Products
 - 📫 Reach Me -
       Email- piyushlimited@gmail.com
       LinkedIn - linkedin.com/in/piyushlimited
       Facebook - www.facebook.com/piyushlimited
       Instagram - www.instagram.com/piyushlimited/
       Twitter -  twitter.com/piyushlimited
-  I am currently working on a android project and seeking opportunities in android development work.
 
 <!---
 piyushlimited/piyushlimited is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
