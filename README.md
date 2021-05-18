@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate mobile application Products
 - 📫 Reach Me -
       Email- piyushlimited@gmail.com
-      LinkedIn - linkedin.com/in/piyushlimited
+      LinkedIn - https://www.linkedin.com/in/piyushlimited/
       Facebook - www.facebook.com/piyushlimited
       Instagram - www.instagram.com/piyushlimited/
       Twitter -  twitter.com/piyushlimited
