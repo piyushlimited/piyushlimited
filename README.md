@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Piyush Singhal @piyushlimited
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Mobile Application Development
 - 💞️ I’m looking to collaborate mobile application Products
 - 📫 Reach Me -
       Email- piyushlimited@gmail.com
