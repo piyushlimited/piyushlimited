@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Piyush Singhal @piyushlimited
+- 👋 Hi, I’m Piyush Singhal,
 - 👀 I’m interested in Mobile Application Development
 - 💞️ I’m looking to collaborate mobile application Products
 - 📫 Reach Me -
       Email- piyushlimited@gmail.com
-      LinkedIn - https://www.linkedin.com/in/piyushlimited/
-      Facebook - www.facebook.com/piyushlimited
-      Instagram - www.instagram.com/piyushlimited/
+      LinkedIn - https://www.linkedin.com/in/piyushsinghal0321/
+      Facebook - www.facebook.com/piyushsinghal0321
+      Instagram - www.instagram.com/piyushsinghal0321/
       Twitter -  twitter.com/piyushlimited
 
 <!---
