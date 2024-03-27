@@ -1,6 +1,6 @@
-Piyush Singhal
-Senior Software Engineer @ Fig1 Inc. 
-Flutter | Mobile Solutions Expertises
+- Piyush Singhal
+- Senior Software Engineer @ Fig1 Inc. 
+- Flutter | Mobile Solutions Expertises
 - 📫 Reach Me -
       Email- piyushsinghal0321@gmail.com
       LinkedIn - https://www.linkedin.com/in/piyushsinghal0321/
